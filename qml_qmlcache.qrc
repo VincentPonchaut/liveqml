@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">../LiveQml/main.qml</file>
+        <file alias="palettes/BasePalette.qml">../LiveQml/palettes/BasePalette.qml</file>
+        <file alias="palettes/CutePalette.qml">../LiveQml/palettes/CutePalette.qml</file>
+        <file alias="palettes/DarkPalette.qml">../LiveQml/palettes/DarkPalette.qml</file>
+        <file alias="palettes/LightPalette.qml">../LiveQml/palettes/LightPalette.qml</file>
+        <file alias="palettes/PaletteLoader.qml">../LiveQml/palettes/PaletteLoader.qml</file>
+        <file alias="dictionaries/javascript.txt">../LiveQml/dictionaries/javascript.txt</file>
+        <file alias="dictionaries/keywords.txt">../LiveQml/dictionaries/keywords.txt</file>
+        <file alias="dictionaries/properties.txt">../LiveQml/dictionaries/properties.txt</file>
+        <file alias="dictionaries/qml.txt">../LiveQml/dictionaries/qml.txt</file>
+        <file alias="fonts/CascadiaCode.ttf">../LiveQml/fonts/CascadiaCode.ttf</file>
+    </qresource>
+</RCC>
